@@ -92,7 +92,7 @@ public class AddToDoActivity extends Activity {
 
 
 
-				// TODO - Indicate result and finish
+				// TODO - Indica un resultado y termina
 
                 
                 
